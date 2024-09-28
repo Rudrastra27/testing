@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tinder_clone
 
 Building a Tinder Clone for UI practice
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# testing
+>>>>>>> 202f0a50369b144696e5169db4187bf74f62f9e7
